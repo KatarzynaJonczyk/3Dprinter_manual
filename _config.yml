@@ -7,7 +7,6 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 color_scheme: vistula
 
 search_enabled: true
-search: What are you looking for?
 
 aux_links:
   "Source repository on GitHub":
