@@ -1,5 +1,6 @@
 name: User manual
 title: Lisa PRO User manual
+author: Katarzyna Jończyk
 description: Technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
@@ -14,5 +15,11 @@ aux_links:
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
+social-network-links:
+  email: "kat.jonczyk@gmail.com"
+  github: KatarzynaJonczyk
+  linkedin: katarzyna-jończyk-780b5822a
+
 
 footer_content: "This manual uses information and pictures provided by Sinterit. They can be found at<a href=\"https://sinterit.com\">sinterit.com</a>"
