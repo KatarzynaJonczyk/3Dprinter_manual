@@ -9,9 +9,9 @@ color_scheme: vistula
 
 aux_links:
   "Source repository on GitHub":
-    - "//github.com/KomunikacjaTechnicznaVistula/Katarzyna-Jonczyk"
+    - "//github.com/KatarzynaJonczyk/3Dprinter_manual"
 
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
+footer_content: "This manual uses information and pictures provided by Sinterit. They can be found at<a href=\"https://sinterit.com\">sinterit.com</a>"
