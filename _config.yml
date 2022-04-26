@@ -21,5 +21,10 @@ social-network-links:
   github: KatarzynaJonczyk
   linkedin: katarzyna-jończyk-780b5822a
 
+share-links-active:
+  email: true
+  github: true
+  linkedin: true
+  
 
 footer_content: "This manual uses information and pictures provided by Sinterit. They can be found at<a href=\"https://sinterit.com\">sinterit.com</a>"
