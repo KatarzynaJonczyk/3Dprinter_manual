@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Introduction
@@ -7,5 +6,5 @@ description: 3D printer user manual
 
 ---
 # Lisa PRO User manual
-![Draw](/images/ekspres.jfif)
+
 
