@@ -4,12 +4,14 @@ author: Katarzyna Jończyk
 description: Technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
-color_scheme: vistula
+color_scheme: dark 
 
 search_enabled: true
 
+
+
 aux_links:
-  "Source repository on GitHub":
+  "Go to repository":
     - "//github.com/KatarzynaJonczyk/3Dprinter_manual"
 
 back_to_top: true
