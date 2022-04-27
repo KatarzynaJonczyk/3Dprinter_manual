@@ -1,6 +1,6 @@
 ---
 layout: default
-title: glossary
+title: Glossary
 nav_order: 3
 has children: no
 ---
