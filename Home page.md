@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Introduction
-nav_order: 2
+nav_order: 1
 description: 
 has children: no
+permalink: /
 ---
 
 # Lisa PRO user manual 
