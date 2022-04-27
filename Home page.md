@@ -6,6 +6,6 @@ description:
 
 ---
 
-# How to make coffee with semi-automatic espresso machine
+# Lisa PRO user manual 
 ![Draw](/images/LisaPRO_front.png)
 

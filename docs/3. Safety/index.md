@@ -5,6 +5,11 @@ nav_order: 3
 has_children: true
 ---
 <h1>
-Safety information </h1>
+Symbols and basic warnings </h1>
+
+attention
+warning
+
+
 
 
