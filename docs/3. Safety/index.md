@@ -2,8 +2,9 @@
 layout: default
 title: Safety information
 nav_order: 3
-
-parent: Safety
-
+has_children: true
 ---
-# Safety information
+<h1>
+Safety information </h1>
+
+
