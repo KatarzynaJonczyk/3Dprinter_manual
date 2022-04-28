@@ -7,6 +7,7 @@ parent: General information
 <h1> Technical specification </h1>
 
 <h2> GENERAL </h2>
+
 | Technology                          |          SLS                                        |
 | Laser system                        |          IR Laser Diode 5 [W] ; λ =808 [nm]         |
 | Dimensions                          |          690 x 500 x 880 [mm]                       |
