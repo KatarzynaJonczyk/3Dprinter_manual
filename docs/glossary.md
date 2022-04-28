@@ -13,3 +13,11 @@ has children: no
 - **Print Bed** - a part of the printing chamber; the place where the powder is sintered.
 
 - **Recoater** - a part of the machine that transfers powder from the Feed Bed to the Print Bed. It also levels the powder surface when preparing the machine for printing.
+
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
