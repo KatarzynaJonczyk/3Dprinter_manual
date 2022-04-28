@@ -10,3 +10,5 @@ permalink: /
 # Lisa PRO user manual 
 ![LisaPRO](/images/LisaPRO_front.png)
 
+Prezented user guide will 
+
