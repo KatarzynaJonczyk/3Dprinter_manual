@@ -10,5 +10,8 @@ permalink: /
 # Lisa PRO user manual 
 ![LisaPRO](/images/LisaPRO_front.png)
 
-Prezented user guide will 
+
+The presented user manual will allow you to get familiar with the machine, guide you through the full printing process and help you solve problems.
+
+**Let's start the printing adventure!**
 
