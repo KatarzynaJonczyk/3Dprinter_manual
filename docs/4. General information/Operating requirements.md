@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Operating requirements
-nav_order: 2
+nav_order: 1
 parent: General information
 ---
 <h1> Operating requirements </h1>
