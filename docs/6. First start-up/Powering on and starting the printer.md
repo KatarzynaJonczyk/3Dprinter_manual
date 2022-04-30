@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Powering on and starting the printer
+title: Starting the printer
 nav_order: 1
 parent: First start-up
 ---
-<h1> Powering on and starting the printer </h1>
+<h1> Starting the printer </h1>
 
 
 
