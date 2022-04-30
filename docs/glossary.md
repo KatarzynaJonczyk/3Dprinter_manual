@@ -17,3 +17,6 @@ Print Bed
 
 Recoater
 : a part of the machine that transfers powder from the Feed Bed to the Print Bed. It also levels the powder surface when preparing the machine for printing.
+
+Flight case
+: a printer protective packaging.
