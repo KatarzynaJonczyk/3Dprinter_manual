@@ -10,6 +10,7 @@ permalink: /
 # Lisa PRO user manual 
 ![LisaPRO](/images/LisaPRO_front.png)
 
+Version 05/2022
 
 The presented user manual will allow you to get familiar with the machine, guide you through the full printing process and help you solve problems.
 
