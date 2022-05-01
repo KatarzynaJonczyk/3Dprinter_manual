@@ -40,7 +40,7 @@ parent: General information
 
 *View of the print chamber.*
 
-16.Pyrometer Window Module and camera / 17.Print Bed / 18.Feed Bed
+16.Pyrometer window module and camera / 17.Print Bed / 18.Feed Bed
 
 ![View of the print chamber](/description7.png)
 
