@@ -17,8 +17,6 @@ parent: First start-up
 > **IMPORTANT!**
 > Electrolock! You have 10 seconds to open the printer lid. Then the electrolock will activate and you will have to press the **UNLOCK LID/OVERFLOW BIN** button again.
 
-<br>
-
 3.Remove the split pin from the heating module. 
 
 4.Lower the heating module carefully. 
