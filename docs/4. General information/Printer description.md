@@ -10,13 +10,16 @@ parent: General information
 
 *Front side view of the printer.* 
 
-1.Printer lid / 2.Printer screen / 3.Removable front panel
+1. Printer lid
+2. Printer screen
+3. Removable front panel   
 
 ![Right side view of the printer](/description2.png)
 
 *Right side view of the printer.*
 
-4.Lid handle / 5.Overflow bin / 6.Key slot / 7.USB port / 8.Safety button
+4. Lid handle 
+/ 5.Overflow bin / 6.Key slot / 7.USB port / 8.Safety button
 
 ![Back side view of the printer](/description3.png)
 
