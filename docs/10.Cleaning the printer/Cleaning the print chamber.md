@@ -6,7 +6,7 @@ parent: Cleaning the printer
 ---
 <h1> Cleaning the print chamber</h1>
 
-You can clean the printer one of two ways: [manually](#Cleaning-the-print-chamber-manually) or using Sinterit ATEX Vacuum Cleaner/PHS. 
+You can clean the printer one of two ways: manually or using Sinterit ATEX Vacuum Cleaner/PHS.
 
 ![Choosing cleaning method](/choosing_cleaning.png)
 
@@ -18,7 +18,7 @@ You can clean the printer one of two ways: [manually](#Cleaning-the-print-chambe
 
 3.Check if there are no objects in the print chamber and press **DONE**.
 
-4.Wait until the positioning is complete. You should see that the Print Bed is maximally down and the Feed Bed is maximally up.
+4.Wait until the positioning is complete. You should see that the <a href="glossary">Print Bed</a> is maximally down and the <a href="glossary">Feed Bed</a> is maximally up.
 
 5.Scoop the powder from the Feed Bed into the Print Bed. 
 
@@ -32,7 +32,7 @@ You can clean the printer one of two ways: [manually](#Cleaning-the-print-chambe
 
 10.Scoop the powder from the Print Bed to the overflow bin gap (it's a gap next to the Print Bed). Press **DONE**.
 
-11.Clean the overflow bin again. Press **DONE**.
+11.Clean the <a href="glossary">overflow bin</a> again. Press **DONE**.
 
 
 ___
@@ -49,4 +49,4 @@ ___
 
 5.Attach a suitable nozzle to the antistatic hose of the vacuum cleaner or PHS and collect the powder. Press **DONE**.
 
-6.Clean the print chamber. You can use the arrow buttons to move the recoater for better access. Press **DONE**.
+6.Clean the print chamber. You can use the arrow buttons to move the <a href="glossary">recoater</a> for better access. Press **DONE**.
