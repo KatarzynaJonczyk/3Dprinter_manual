@@ -21,7 +21,7 @@ parent: General information
 
 <h2> PRINTER PARAMETERS </h2>
 
-| Size of Print Bed                         |          150 x 200 x 260 [mm]       |
+| Size of <a href="glossary">Print Bed</a>                         |          150 x 200 x 260 [mm]       |
 | XY accuracy                               |          from 0.05 [mm]             |
 | The layer height Z (min - max)            |         0.075 - 0.175 [mm]          |
 

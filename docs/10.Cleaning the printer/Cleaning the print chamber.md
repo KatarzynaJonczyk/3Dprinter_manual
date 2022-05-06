@@ -6,7 +6,7 @@ parent: Cleaning the printer
 ---
 <h1> Cleaning the print chamber</h1>
 
-You can clean the printer one of two ways: manually or using Sinterit ATEX Vacuum Cleaner/PHS.
+You can clean the printer one of two ways: [manually](#Cleaning-the-print-chamber-manually) or using Sinterit ATEX Vacuum Cleaner/PHS. 
 
 ![Choosing cleaning method](/choosing_cleaning.png)
 

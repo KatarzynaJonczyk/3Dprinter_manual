@@ -7,7 +7,7 @@ parent: First start-up
 <h1> Mounting the laser protective glass </h1>
 
 1.From the main menu choose **UNLOCK LID/OVERFLOW BIN**.
-
+<a href="glossary">Print Bed</a>
 2.Press down firmly on the printer lid and pull the lid upword by the handle.
 
 > **WARNING!**
