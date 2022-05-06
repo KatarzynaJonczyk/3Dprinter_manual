@@ -45,7 +45,7 @@ ___
 
 3. Wait until the positioning is complete. You should see that the Print Bed is maximally down and the Feed Bed is maximally up.
 
-4. Turn on the ATEX Vacuum Cleaner or PHS (refer to the relevant instructions).
+4. Turn on the ATEX Vacuum Cleaner or PHS (refer to the [relevant instructions](https://sinterit.com/support/) ).
 
 5. Attach a suitable nozzle to the antistatic hose of the vacuum cleaner or PHS and collect the powder. Press **DONE**.
 
