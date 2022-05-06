@@ -18,7 +18,7 @@ parent: General information
 
 *Right side view of the printer.*
 
-4. Lid handle 
+   4. Lid handle 
 / 5.Overflow bin / 6.Key slot / 7.USB port / 8.Safety button
 
 ![Back side view of the printer](/description3.png)
