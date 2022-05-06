@@ -6,10 +6,7 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
-
 search_enabled: true
-
-
 
 aux_links:
   "Go to repository":
