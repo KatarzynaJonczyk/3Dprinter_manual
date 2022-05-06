@@ -8,7 +8,7 @@ parent: Cleaning the printer
 
 You can clean the printer one of two ways: manually or using Sinterit ATEX Vacuum Cleaner/PHS.
 
-    ![Choosing cleaning method](/choosing_cleaning.png)
+   ![Choosing cleaning method](/choosing_cleaning.png)
 
 <h2> Cleaning the print chamber manually </h2>
 

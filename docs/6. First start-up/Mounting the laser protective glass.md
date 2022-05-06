@@ -8,8 +8,6 @@ parent: First start-up
 
 1. From the main menu choose **UNLOCK LID/OVERFLOW BIN**.
 
-    <a href="glossary">Print Bed</a>
-
 2. Press down firmly on the printer lid and pull the lid upword by the handle.
 
    > **WARNING!**
