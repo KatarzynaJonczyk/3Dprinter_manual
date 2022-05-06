@@ -13,3 +13,6 @@ parent: First start-up
    - **MOTORS** - press this button to access the manual move function for the [recoater](https://katarzynajonczyk.github.io/3Dprinter_manual/docs/glossary.html), [Print Bed](https://katarzynajonczyk.github.io/3Dprinter_manual/docs/glossary.html) and [Feed Bed](https://katarzynajonczyk.github.io/3Dprinter_manual/docs/glossary.html).
    - **CAMERA VIEW** - press this button to see what is happening inside the print chamber.
    - **MORE OPTIONS** - press this button to connect to the Wi-Fi network, change the material and print in an advanced mode. 
+
+Warning
+{: .label .label-red }
