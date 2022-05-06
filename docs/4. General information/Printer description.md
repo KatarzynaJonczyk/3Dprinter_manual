@@ -55,6 +55,7 @@ parent: General information
 18. Feed Bed
 
     ![View of the print chamber](/description7.png)
+    
     *View of the print chamber.*
 
 19. Recoater guide bar
