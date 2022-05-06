@@ -2,11 +2,11 @@
 layout: default
 title: Operating requirements
 nav_order: 1
-parent: General information
+parent: Lisa PRO information
 ---
 <h1> Operating requirements </h1>
 
-To provide safe and optimal conditions for printer operation, make sure that the following guidelines are met.
+To provide safe and optimal conditions for printer operation, make sure that the following requirements are met.
 
 | REQUIREMENT                         |       VALUE/INFORMATION |
 | ---                                 |       -----------       |

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: General information
+title: Lisa PRO information
 nav_order: 4
 has_children: true
 ---
-<h1>General information </h1>
+<h1> Lisa PRO information </h1>
 
 
 

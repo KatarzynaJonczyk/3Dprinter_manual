@@ -2,7 +2,7 @@
 layout: default
 title: Printer description
 nav_order: 3
-parent: General information
+parent: Lisa PRO information
 ---
 <h1> Printer description </h1>
 
