@@ -39,32 +39,30 @@ parent: General information
 12. Power socket
 13. Power switch
 
-   ![Printer without the removable front panel](/description5.png)
-
-   *Printer without the removable front panel.*
+    ![Printer without the removable front panel](/description5.png)
+    
+    *Printer without the removable front panel.*
 
 14. Magnetic fastener
 15. Service area
-
-   ![View of the print chamber](/description6.png)
-
-   *View of the print chamber.*
+    
+    ![View of the print chamber](/description6.png)
+    
+    *View of the print chamber.*
 
 16. Pyrometer window module and camera
 17. Print Bed
 18. Feed Bed
 
-   ![View of the print chamber](/description7.png)
-   
-   *View of the print chamber.*
+    ![View of the print chamber](/description7.png)
+    *View of the print chamber.*
 
 19. Recoater guide bar
 20. Recoater
-
-
-   ![LisaPRO front](/description8.png)
-
-   *View of the heating module*
+    
+    ![LisaPRO front](/description8.png)
+    
+    *View of the heating module*
 
 21. Split pin
 22. Short Infrared heater
