@@ -10,8 +10,8 @@ parent: Cleaning the printer
 
 2. Pull the overflow bin handle and take out the overflow bin.
 
-    > **IMPORTANT!**
-    > Electrolock! You have 10 seconds to take out the overflow bin. Then the electrolock will activate and you will have to press the **UNLOCK OVERFLOW BIN** button again.
+   **IMPORTANT!** Electrolock! You have 10 seconds to take out the overflow bin. Then the electrolock will activate and you will have to press the **UNLOCK OVERFLOW BIN** button again.
+   {: .label .label-blue }
 
 3. Empty the overlow bin. Pour its content into the foldable tray or PHS worktop.
 
