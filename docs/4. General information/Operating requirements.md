@@ -9,7 +9,7 @@ parent: Lisa PRO information
 To provide safe and optimal conditions for printer operation, make sure that the following requirements are met.
 
 | REQUIREMENT                         |       VALUE/INFORMATION |
-| ---                                 |       -----------       |
+| :-:                                 |       :-:      |
 | Air humidity                        |          40-59%         |
 | Storage temperature                 |          0-40°C         |
 | A/C temperature                     |          16-25°C        |
